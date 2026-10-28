@@ -1,6 +1,6 @@
 # Off-Grid Processing Plant: Renewable Energy Transition Calculator
 
-### 📊 [View & Duplicate the Google Sheets Dashboard Here](YOUR_GOOGLE_SHEETS_LINK_HERE)
+### 📊 [View & Duplicate the Google Sheets Dashboard Here](https://docs.google.com/spreadsheets/d/1CbZq35oQDYQTFSPwRj22zQ46vmtWuh98DrNG9an7w70/edit?usp=sharing)
 
 ## 📌 Project Overview
 Off-grid industrial assets (mining sites, chemical refining facilities, agricultural processing plants) face immense financial volatility due to a total reliance on diesel fuel generators. 
@@ -41,4 +41,4 @@ The core of the simulator relies on precise, dynamic matrix routing across a 10-
 * `automation_script.gs`: The Google Apps Script engine used to procedurally format and construct the analytics layers.
 
 ---
-**Author:** Connected at the intersection of Chemical Processes and Data Storytelling. Follow my journey on [LinkedIn](YOUR_LINKEDIN_URL) and subscribe to my deep-dives on [Substack](YOUR_SUBSTACK_URL).
+**Author:** Connected at the intersection of Chemical Processes and Data Storytelling. Follow my journey on [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) and subscribe to my deep-dives on [Substack](https://substack.com/@davidfavour2?utm_source=share&utm_medium=android&r=438pog).
